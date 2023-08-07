@@ -9,6 +9,6 @@
 ![pull](pull.png)
 ![log](log.png)
 ![fetch](fetch.png)
-![push-commit](push:commit.png)
+![push-commit](push/commit.png)
 ![branchfinal](branch_nova_final.png)
 
