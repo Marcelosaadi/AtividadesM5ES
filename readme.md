@@ -14,8 +14,8 @@ Registro de log:
 Utilização do fetch:
 ![fetch](fetch.png)
 
-Push com commit
-![push-commit](push:commit.png)
+Push com commit:
+![pushcommit](push:commit.png)
 
 Criação e acesso a uma nova branch:
 ![branchfinal](branch_nova_final.png)
