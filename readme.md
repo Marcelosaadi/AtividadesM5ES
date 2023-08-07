@@ -5,10 +5,17 @@
 
 <P> Seguem os prints dos comandos git aplicados durante o tiutor</P>
 
-![clone](clone.png)
+Registro de pull:
 ![pull](pull.png)
-![log](log.png)
-![fetch](fetch.png)
-![push-commit](push/commit.png)
-![branchfinal](branch_nova_final.png)
 
+Registro de log:
+![log](log.png)
+
+Utilização do fetch:
+![fetch](fetch.png)
+
+Push com commit
+![push-commit](push:commit.png)
+
+Criação e acesso a uma nova branch:
+![branchfinal](branch_nova_final.png)
