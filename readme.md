@@ -15,7 +15,9 @@ Utilização do fetch:
 ![fetch](fetch.png)
 
 Push com commit:
-![pushcommit](push:commit.png)
+(nao entendi por que a foto do push:commit nao foi)
+
+![pushcommit](push:commit.png) 
 
 Criação e acesso a uma nova branch:
 ![branchfinal](branch_nova_final.png)
