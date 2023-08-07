@@ -17,7 +17,7 @@ Utilização do fetch:
 Push com commit:
 (nao entendi por que a foto do push:commit nao foi)
 
-![pushcommit](push:commit.png) 
+![pushcommit](https://github.com/Marcelosaadi/AtividadesM5ES/blob/branchnovafinal/push:commit.png)
 
 Criação e acesso a uma nova branch:
 ![branchfinal](branch_nova_final.png)
