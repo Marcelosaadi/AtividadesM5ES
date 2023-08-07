@@ -15,7 +15,7 @@ Utilização do fetch:
 ![fetch](fetch.png)
 
 Push com commit:
-(nao entendi por que a foto do push:commit nao foi)
+(para colocar a imagem em markdown tive que colocar o permalink):
 
 ![pushcommit](https://github.com/Marcelosaadi/AtividadesM5ES/blob/a3d3b35dba44ae94eb21c4f40bca2a65e205974f/push%3Acommit.png)
 
